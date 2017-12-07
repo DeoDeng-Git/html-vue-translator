@@ -19,7 +19,7 @@ https://stackoverflow.com/questions/42936588/how-to-deploy-vue-app
 the right answer is 
 
 
-> the answer should be "the content of the dist folder is all you need. You do not need to copy `/index.html` but only the `index.html` in the `dist` folder is needed. In addition, prior to running npm run build you should configure your production path in `config/index.js`
+> the answer should be "the content of the dist folder is all you need. You do not need to copy `/index.html` but only the `index.html` in the `dist` folder is needed. In addition, prior to running npm run build you should configure your production path in `config/index.js`"
 
 not the "right answer" one.
 
